@@ -1,0 +1,25 @@
+![Samsung Generative AI](https://oaidalleapiprodscus.blob.core.windows.net/private/org-Nlrc03jLTonhenq0ChcwpgIu/user-G1V9VlBXyzT3UZNL5hzC75jF/img-P9RBkS65yHLmwUbcRepVaPGh.png?st=2025-04-22T07%3A43%3A25Z&se=2025-04-22T09%3A43%3A25Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T04%3A00%3A43Z&ske=2025-04-23T04%3A00%3A43Z&sks=b&skv=2024-08-04&sig=jfgvLY246AMsmi/7S5%2BBikXeeOu8VBwX5ygvMLKQvL0%3D
+
+# 삼성전자 생성형 AI '삼성 가우스2' 보고서
+
+## 개요  
+본 보고서는 삼성전자가 개발한 생성형 AI 모델 '삼성 가우스2'에 대한 정보를 다룬다. 생성형 AI는 다양한 데이터 유형을 통합적으로 처리할 수 있는 멀티모달 모델로, 언어, 코드, 이미지를 포함한 다각적인 기능을 제공한다. 삼성전자는 이를 통해 사용자 경험을 향상시키고, 기업 내 소프트웨어 개발에 기여하고자 한다. 
+
+## 핵심내용  
+| 항목              | 설명                                                         |
+|------------------|------------------------------------------------------------|
+| 모델명           | 삼성 가우스2 (Samsung Gauss2)                              |
+| 기능             | 언어, 코드, 이미지 통합 생성형 AI                          |
+| 모델 유형        | 콤팩트, 밸런스드, 슈프림 3가지 모델로 나뉨                |
+| 특징             | 온디바이스 환경에서 최적화된 성능 제공                     |
+| 지원 도구        | 코드 개발 지원을 위한 AI 도구 '코드아이' 제공              |
+| 비전             | '모두를 위한 AI(AI for All)'로 모든 제품군에 AI 통합 계획|
+
+## 최종결론  
+삼성전자가 개발한 생성형 AI '삼성 가우스2'는 산업 전반에 걸쳐 혁신적인 사용자 경험을 제공할 잠재력을 가지고 있다. 다양한 데이터 유형을 통합적으로 처리할 수 있는 구조로 되어 있어, 다양한 환경에서 활용될 수 있을 것으로 기대된다. 또한, 삼성전자의 AI 통합 비전은 향후 여러 제품 및 서비스에 걸쳐 AI 기술의 접목을 가속화할 것이다.  
+
+### 출처  
+- page 10, filename: SPRI_AI_Brief_2023년12월호_F.pdf  
+- 출처: [삼성전자 AI 리더십](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-ai-%EB%A6%AC%EB%8D%94%EC%8B%AD-%E2%91%A2-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B2%BD%ED%97%98%EC%9D%84-%EC%B5%9C%EC%9A%B0%EC%84%A0%EC%9C%BC%EB%A1%9C-%ED%95%98%EB%8A%94)  
+- 출처: [지디넷코리아](https://zdnet.co.kr/view/?no=20241121083205)  
+- 출처: [조선일보](https://www.chosun.com/economy/tech_it/2024/11/21/NPX26RN6MVDQTLBYTHWC4F2S44/)  
